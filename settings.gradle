@@ -1,1 +1,5 @@
 rootProject.name = 'gatlingdemo'
+
+include "test-data-service"
+include "test-data-provider"
+include "load-test"
